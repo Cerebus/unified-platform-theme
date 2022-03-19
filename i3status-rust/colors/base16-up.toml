@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Unified Platform by tmiller@mitre.org
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#000000"
+idle_fg = "#dad9d7"
+info_bg = "#7b98ac"
+info_fg = "#000000"
+good_bg = "#006b5b"
+good_fg = "#000000"
+warning_bg = "#997940"
+warning_fg = "#000000"
+critical_bg = "#802629"
+critical_fg = "#000000"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,61 @@
+
+# base16 Unified Platform by tmiller@mitre.org
+
+.colors *
+
+-text		$dad9d7/$000000
+-status		$98999b/$4c4d4e
+-cursor		$000000/$dad9d7
+-selection	/$4c4d4e
+-curlin		/$262627
+-linum		$727374/$262627
+-curlinum	$98999b/$262627
+-menusel	$262627/$98999b
+
+-term 0 	$000000
+-term 1 	$185a7d
+-term 2 	$006b5b
+-term 3 	$7b98ac
+-term 4 	$ad9266
+-term 5 	$894943
+-term 6 	$997940
+-term 7 	$98999b
+-term 8 	$727374
+-term 9 	$185a7d
+-term 10	$006b5b
+-term 11	$7b98ac
+-term 12	$802629
+-term 13	$ffffff
+-term 14	$997940
+-term 15	$ffffff
+
+=Constant	$ad9266
+=String		$006b5b
+=Escape		$7b98ac
+
+=Comment	$727374
+=StorageClass	+Type
+=Keyword	$894943
+=Conditional	$894943
+=Operator	$dad9d7
+=Loop		$997940
+=Statement	$802629
+=Type		$997940
+
+=DefinedIdent	$802629
+=Label		$997940
+=DefinedType	$997940
+=Structure	$894943
+
+=Preproc	$997940
+=Include	$185a7d
+=Define		$894943
+=TODO		$997940/$262627
+=Precond	$894943
+
+=diff.AddLine	$006b5b/$262627
+=diff.ChgLine	$727374/$262627
+=diff.DelLine	$802629/$262627
+=diff.File	$802629
+=diff.FileNew	$006b5b
+=diff.Hunk	$185a7d

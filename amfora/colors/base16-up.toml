@@ -1,0 +1,42 @@
+# Base16 Unified Platform - amfora color config
+# tmiller@mitre.org
+
+[theme]
+bg = "#000000"
+fg = "#dad9d7"
+
+bottombar_label = "#894943"
+bottombar_text = "#dad9d7"
+bottombar_bg = "#262627"
+
+tab_num = "#4c4d4e"
+tab_divider = "#98999b"
+
+amfora_link = "#006b5b"
+foreign_link = "#727374"
+link_number = "#727374"
+
+btn_bg = "#262627"
+btn_text = "#dad9d7"
+
+input_modal_bg = "#262627"
+input_modal_text = "#dad9d7"
+input_modal_field_bg = "#000000"
+input_modal_field_text = "#dad9d7"
+info_modal_bg = "#262627"
+info_modal_text = "#dad9d7"
+error_modal_bg = "#262627"
+error_modal_text = "#ffffff"
+yesno_modal_bg = "#262627"
+yesno_modal_text = "#dad9d7"
+tofu_modal_bg = "#262627"
+tofu_modal_text = "#dad9d7"
+subscription_modal_bg = "#262627"
+subscription_modal_text = "#dad9d7"
+
+hdg_1 = "#ad9266"
+hdg_2 = "#997940"
+hdg_3 = "#185a7d"
+regular_text = "#dad9d7"
+preformatted_text = "#7b98ac"
+list_text = "#dad9d7"

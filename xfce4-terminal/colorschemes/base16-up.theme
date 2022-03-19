@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Unified Platform
+ColorForeground=#dad9d7
+ColorBackground=#000000
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#000000;#802629;#006b5b;#997940;#185a7d;#894943;#7b98ac;#dad9d7;#727374;#802629;#006b5b;#997940;#185a7d;#894943;#7b98ac;#ffffff

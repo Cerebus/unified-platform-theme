@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Unified Platform (https://github.com/chriskempson/base16)
+; Scheme: tmiller@mitre.org
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00000000 ; base00
+"ColorTable01"=dword:007d5a18 ; base0D
+"ColorTable02"=dword:005b6b00 ; base0B
+"ColorTable03"=dword:00ac987b ; base0C
+"ColorTable04"=dword:00292680 ; base08
+"ColorTable05"=dword:00434989 ; base0E
+"ColorTable06"=dword:006692ad ; base09
+"ColorTable07"=dword:00d7d9da ; base05
+"ColorTable08"=dword:00747372 ; base03
+"ColorTable09"=dword:00272626 ; base01
+"ColorTable10"=dword:004e4d4c ; base02
+"ColorTable11"=dword:00747372 ; base03
+"ColorTable12"=dword:009b9998 ; base04
+"ColorTable13"=dword:00d7d9da ; base05
+"ColorTable14"=dword:00ebeced ; base06
+"ColorTable15"=dword:00ffffff ; base07

@@ -1,0 +1,36 @@
+# Base16 Unified Platform - alacritty color config
+# tmiller@mitre.org
+colors:
+  # Default colors
+  primary:
+    background: '0x000000'
+    foreground: '0xdad9d7'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0x000000'
+    cursor: '0xdad9d7'
+
+  # Normal colors
+  normal:
+    black:   '0x000000'
+    red:     '0x802629'
+    green:   '0x006b5b'
+    yellow:  '0x997940'
+    blue:    '0x185a7d'
+    magenta: '0x894943'
+    cyan:    '0x7b98ac'
+    white:   '0xdad9d7'
+
+  # Bright colors
+  bright:
+    black:   '0x727374'
+    red:     '0xad9266'
+    green:   '0x262627'
+    yellow:  '0x4c4d4e'
+    blue:    '0x98999b'
+    magenta: '0xedeceb'
+    cyan:    '0xffffff'
+    white:   '0xffffff'
+
+draw_bold_text_with_bright_colors: false

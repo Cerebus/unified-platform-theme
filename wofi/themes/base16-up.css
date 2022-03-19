@@ -1,0 +1,30 @@
+/* base16-wofi (https://sr.ht/~knezi/base16-wofi)
+ * Base16 wofi template by knezi
+ * Unified Platform scheme by tmiller@mitre.org */
+
+window {
+	background-color: #000000;
+	color: #dad9d7;
+}
+
+#entry:nth-child(odd) {
+	background-color: #000000;
+}
+
+#entry:nth-child(even) {
+	background-color: #262627;
+}
+
+#entry:selected {
+	background-color: #4c4d4e;
+}
+
+#input {
+	background-color: #262627;
+	color: #98999b;
+	border-color: #4c4d4e; 
+}
+
+#input:focus {
+	border-color: #997940; 
+}

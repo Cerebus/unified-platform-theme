@@ -1,0 +1,5 @@
+# Base16 Unified Platform for gtk2 (https://github.com/dawikur/base16-gtk2)
+# By tmiller@mitre.org
+
+gtk-color-scheme = "bg_color:#000000\nfg_color:#dad9d7\nbase_color:#000000\ntext_color:#dad9d7\nselected_bg_color:#4c4d4e\nselected_fg_color:#dad9d7\ntooltip_bg_color:#000000\ntooltip_fg_color:#98999b\ntitlebar_bg_color:#000000\ntitlebar_fg_color:#185a7d\nmenubar_bg_color:#000000\nmenubar_fg_color:#185a7d\ntoolbar_bg_color:#000000\ntoolbar_fg_color:#997940\nmenu_bg_color:#000000\nmenu_fg_color:#dad9d7\npanel_bg_color:#000000\npanel_fg_color:#006b5b\nlink_color:#ad9266"
+

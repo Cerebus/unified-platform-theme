@@ -1,0 +1,26 @@
+-- Name: Base16 Unified Platform
+-- Author: tmiller@mitre.org
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 "
+
+Default = { Colour = "#dad9d7" }
+Canvas = { Colour="#000000" }
+Number = { Colour="#ad9266" }
+Escape = { Colour="#edeceb" , Italic=true}
+String = { Colour="#006b5b" }
+BlockComment = { Colour="#727374" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#dad9d7" }
+LineNum      = { Color="#727374" }
+PreProcessor      = { Colour="#ffffff" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#802629", Bold=true},
+  { Colour="#997940"},
+  { Colour="#185a7d"},
+  { Colour="#997940"},
+  { Colour="#997940" }
+}

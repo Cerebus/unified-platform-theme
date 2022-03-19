@@ -1,0 +1,31 @@
+; base16-up
+;
+; base16: (https://github.com/chriskempson/base16)
+;
+; Scheme: tmiller@mitre.org
+; Template: Christian Karl <karlch at protonmail dot com>
+
+[STYLE]
+; Colors
+base00 = #000000
+base01 = #262627
+base02 = #4c4d4e
+base03 = #727374
+base04 = #98999b
+base05 = #dad9d7
+base06 = #edeceb
+base07 = #ffffff
+base08 = #802629
+base09 = #ad9266
+base0a = #997940
+base0b = #006b5b
+base0c = #7b98ac
+base0d = #185a7d
+base0e = #894943
+base0f = #ffffff
+
+; Additional custom overrides, e.g.
+; font = 10pt Hack
+; thumbnail.padding = 32
+
+; vim:ft=dosini

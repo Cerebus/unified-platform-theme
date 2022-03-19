@@ -1,0 +1,23 @@
+[Unified Platform]
+text=dad9d7
+text(bold)=dad9d7
+background=000000
+black=000000
+black(bold)=727374
+red=802629
+red(bold)=ad9266
+green=006b5b
+green(bold)=262627
+yellow=997940
+yellow(bold)=4c4d4e
+blue=185a7d
+blue(bold)=98999b
+magenta=894943
+magenta(bold)=edeceb
+cyan=7b98ac
+cyan(bold)=ffffff
+white=dad9d7
+white(bold)=ffffff
+[Names]
+name0=Unified Platform
+count=1

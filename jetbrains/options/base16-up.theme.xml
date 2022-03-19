@@ -1,0 +1,21 @@
+<!--    Base16 Unified Platform
+        Author: tmiller@mitre.org   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="000000" />
+    <option name="treeSelectionColor" value="185a7d" />
+    <option name="highlightColor" value="4c4d4e" />
+    <option name="secondBorderColor" value="000000" />
+    <option name="tableSelectedColor" value="185a7d" />
+    <option name="contrastColor" value="262627" />
+    <option name="disabledColor" value="98999b" />
+    <option name="secondaryBackgroundColor" value="262627" />
+    <option name="buttonColor" value="000000" />
+    <option name="selectionForegroundColor" value="edeceb" />
+    <option name="selectionBackgroundColor" value="185a7d" />
+    <option name="textColor" value="edeceb" />
+    <option name="foregroundColor" value="dad9d7" />
+    <option name="backgroundColor" value="000000" />
+  </component>
+</application> 

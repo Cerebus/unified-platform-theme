@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Unified Platform">
+  <!--
+  Created by base16-frescobaldi
+  Author: #tmiller@mitre.org
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#dad9d7" />
+    <background color="#000000" />
+    <selectiontext color="#edeceb" />
+    <selectionbackground color="#727374" />
+    <current color="#262627" />
+    <mark color="#4c4d4e" />
+    <error color="#262627" />
+    <search color="#" />
+    <match color="#98999b" />
+    <paper color="#262627" />
+    <musichighlight color="#727374" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#802629" />
+    <escape textColor="#ad9266" />
+    <comment italic="True" textColor="#727374" />
+    <value textColor="#997940" />
+    <variable textColor="#006b5b" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#185a7d" />
+    <error textColor="#894943" underline="True" underlineColor="#894943" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ad9266" />
+      <dynamic bold="True" textColor="#185a7d" />
+      <articulation bold="True" textColor="#ad9266" />
+      <fingering textColor="#006b5b" />
+      <stringnumber textColor="#ad9266" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#997940" />
+      <lyricmode textColor="#185a7d" />
+      <lyrictext textColor="#dad9d7" />
+      <context bold="True" />
+      <grob textColor="#dad9d7" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>
